@@ -2969,7 +2969,7 @@ var app = (function () {
             answer: "Top Ride: Sand - Kirby Air Ride",
           },
           {
-            url: "https://soundcloud.com/vgmc/bad-ending-kirbys-block-ball?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "",
             answer: "The End - Kirby's Block Ball",
           },
           {
@@ -3141,7 +3141,7 @@ var app = (function () {
             answer: "Game Over - Kirby's Dream Course",
           },
           {
-            url: "https://soundcloud.com/vgmc/poppy-bros-sr-s-stage-kirbys?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/stage-4-kirbys-block-ball-gb?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Stage 4 - Kirby's Block Ball",
           },
           {
@@ -3161,7 +3161,7 @@ var app = (function () {
             answer: "Nebula Belt - Kirby Air Ride",
           },
           {
-            url: "https://soundcloud.com/vgmc/castle-dedede-stage-kirbys?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-11?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Stage 11 - Kirby's Block Ball",
           },
           {
@@ -3169,7 +3169,7 @@ var app = (function () {
             answer: "City Trial: Station Fire/Mysterious Flying Machine - Kirby Air Ride",
           },
           {
-            url: "https://soundcloud.com/vgmc/whispys-stage-kirbys-block?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-8?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Stage 8 - Kirby's Block Ball",
           },
           {
@@ -3181,7 +3181,7 @@ var app = (function () {
             answer: "Out of the Holes - Kirby Mass Attack",
           },
           {
-            url: "https://soundcloud.com/vgmc/brobos-stage-kirbys-block-ball?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-10?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Stage 10 - Kirby's Block Ball",
           },
           {
@@ -3201,7 +3201,7 @@ var app = (function () {
             answer: "Ending Cinema - Kirby Canvas Curse",
           },
           {
-            url: "https://soundcloud.com/vgmc/kaboolas-stage-kirbys-block?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-9?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Stage 9 - Kirby's Block Ball",
           },
           {
@@ -3217,11 +3217,11 @@ var app = (function () {
             answer: "Survival Lobby - Kirby Mass Attack",
           },
           {
-            url: "https://soundcloud.com/vgmc/bonus-game-kirbys-block-ball?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "",
             answer: "Bonus Game - Kirby's Block Ball",
           },
           {
-            url: "https://soundcloud.com/vgmc/complete-ending-kirbys-block?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "",
             answer: "Staff Roll/Credits - Kirby's Block Ball",
           },
           {
@@ -3237,7 +3237,7 @@ var app = (function () {
             answer: "Time to Shine - Kirby Mass Attack",
           },
           {
-            url: "https://soundcloud.com/vgmc/mr-shine-and-mr-brights-stage?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-5?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Stage 5 - Kirby's Block Ball",
           },
           {
@@ -3281,7 +3281,7 @@ var app = (function () {
             answer: "Drawcia Soul - Kirby Canvas Curse",
           },
           {
-            url: "https://soundcloud.com/vgmc/kabus-stage-kirbys-block-ball?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-3?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Stage 3 - Kirby's Block Ball",
           },
           {
@@ -3317,7 +3317,7 @@ var app = (function () {
             answer: "City Trial: The Lighthouse Light Burns - Kirby Air Ride",
           },
           {
-            url: "https://soundcloud.com/vgmc/cappys-stage-kirbys-block-ball?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/stage-2?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Stage 1 - Kirby's Block Ball",
           },
           {
@@ -3361,11 +3361,11 @@ var app = (function () {
             answer: "Green Fields - Kirby's Dream Course",
           },
           {
-            url: "https://soundcloud.com/vgmc/krackos-stage-kirbys-block?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-7?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Stage 7 - Kirby's Block Ball",
           },
           {
-            url: "https://soundcloud.com/vgmc/final-boss-theme-kirbys-block?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-dedede?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Dedede Battle - Kirby's Block Ball",
           },
           {
@@ -3385,7 +3385,7 @@ var app = (function () {
             answer: "Learn the Rules (Tutorial) - Kirby's Dream Course",
           },
           {
-            url: "https://soundcloud.com/vgmc/mr-frostys-stage-kirbys-block?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-6?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Stage 6 - Kirby's Block Ball",
           },
           {
@@ -3413,7 +3413,7 @@ var app = (function () {
             answer: "Menu (Game Mode Select) - Kirby Air Ride",
           },
           {
-            url: "https://soundcloud.com/vgmc/boss-theme-kirbys-block-ball?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/boss-theme?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Boss Battle - Kirby's Block Ball",
           },
           {
@@ -3437,7 +3437,7 @@ var app = (function () {
             answer: "Kracko - Kirby Canvas Curse",
           },
           {
-            url: "https://soundcloud.com/vgmc/squishys-stage-kirbys-block?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-2?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Stage 2 - Kirby's Block Ball",
           },
           {
@@ -3549,7 +3549,7 @@ var app = (function () {
             answer: "Training - Kirby Canvas Curse",
           },
           {
-            url: "https://soundcloud.com/vgmc/squishys-stage-kirbys-block?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-2?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Stage 2 - Kirby's Block Ball",
           },
           {
@@ -3565,7 +3565,7 @@ var app = (function () {
             answer: "Survival Lobby - Kirby Mass Attack",
           },
           {
-            url: "https://soundcloud.com/vgmc/whispys-stage-kirbys-block?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-8?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Stage 8 - Kirby's Block Ball",
           },
           {
@@ -3581,7 +3581,7 @@ var app = (function () {
             answer: "Time to Shine - Kirby Mass Attack",
           },
           {
-            url: "https://soundcloud.com/vgmc/brobos-stage-kirbys-block-ball?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-10?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Stage 10 - Kirby's Block Ball",
           },
           {
@@ -3593,7 +3593,7 @@ var app = (function () {
             answer: "Top Ride: Light - Kirby Air Ride",
           },
           {
-            url: "https://soundcloud.com/vgmc/complete-ending-kirbys-block?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "",
             answer: "Staff Roll/Credits - Kirby's Block Ball",
           },
           {
@@ -3605,7 +3605,7 @@ var app = (function () {
             answer: "Tiny Town - Kirby Canvas Curse",
           },
           {
-            url: "https://soundcloud.com/vgmc/mr-frostys-stage-kirbys-block?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-6?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Stage 6 - Kirby's Block Ball",
           },
           {
@@ -3705,7 +3705,7 @@ var app = (function () {
             answer: "City Trial: Dyna Blade - Kirby Air Ride",
           },
           {
-            url: "https://soundcloud.com/vgmc/castle-dedede-stage-kirbys?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-11?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Stage 11 - Kirby's Block Ball",
           },
           {
@@ -3757,7 +3757,7 @@ var app = (function () {
             answer: "Meta Knight - Kirby's Star Stacker",
           },
           {
-            url: "https://soundcloud.com/vgmc/bad-ending-kirbys-block-ball?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "",
             answer: "The End - Kirby's Block Ball",
           },
           {
@@ -3765,7 +3765,7 @@ var app = (function () {
             answer: "Dark Island - Kirby Mass Attack",
           },
           {
-            url: "https://soundcloud.com/vgmc/boss-theme-kirbys-block-ball?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/boss-theme?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Boss Battle - Kirby's Block Ball",
           },
           {
@@ -3813,7 +3813,7 @@ var app = (function () {
             answer: "Celestial Valley - Kirby Air Ride",
           },
           {
-            url: "https://soundcloud.com/vgmc/kabus-stage-kirbys-block-ball?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-3?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Stage 3 - Kirby's Block Ball",
           },
           {
@@ -3821,7 +3821,7 @@ var app = (function () {
             answer: "Unrivaled Size - Kirby Mass Attack",
           },
           {
-            url: "https://soundcloud.com/vgmc/poppy-bros-sr-s-stage-kirbys?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/stage-4-kirbys-block-ball-gb?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Stage 4 - Kirby's Block Ball",
           },
           {
@@ -3833,7 +3833,7 @@ var app = (function () {
             answer: "Dream Land (Course Select) - Kirby's Dream Course",
           },
           {
-            url: "https://soundcloud.com/vgmc/mr-shine-and-mr-brights-stage?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-5?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Stage 5 - Kirby's Block Ball",
           },
           {
@@ -3865,7 +3865,7 @@ var app = (function () {
             answer: "Kirby Quest - Kirby Mass Attack",
           },
           {
-            url: "https://soundcloud.com/vgmc/kaboolas-stage-kirbys-block?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-9?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Stage 9 - Kirby's Block Ball",
           },
           {
@@ -3877,7 +3877,7 @@ var app = (function () {
             answer: "Showdown - Kirby Mass Attack",
           },
           {
-            url: "https://soundcloud.com/vgmc/final-boss-theme-kirbys-block?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-dedede?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Dedede Battle - Kirby's Block Ball",
           },
           {
@@ -3921,7 +3921,7 @@ var app = (function () {
             answer: "Frozen Fantasy - Kirby Canvas Curse",
           },
           {
-            url: "https://soundcloud.com/vgmc/bonus-game-kirbys-block-ball?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "",
             answer: "Bonus Game - Kirby's Block Ball",
           },
           {
@@ -3929,7 +3929,7 @@ var app = (function () {
             answer: "City Trial: What's in the Box? (No Fair! The Boxes All Contain the Same Item!) - Kirby Air Ride",
           },
           {
-            url: "https://soundcloud.com/vgmc/cappys-stage-kirbys-block-ball?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/stage-2?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Stage 1 - Kirby's Block Ball",
           },
           {
@@ -3937,19 +3937,19 @@ var app = (function () {
             answer: "Game Over - Kirby's Dream Course",
           },
           {
-            url: "https://soundcloud.com/vgmc/krackos-stage-kirbys-block?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-7?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Stage 7 - Kirby's Block Ball",
           },
           {
-            url: "https://soundcloud.com/vgmc/final-boss-theme-kirbys-block?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-dedede?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Dedede Battle - Kirby's Block Ball",
           },
           {
-            url: "https://soundcloud.com/vgmc/mr-shine-and-mr-brights-stage?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-5?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Stage 5 - Kirby's Block Ball",
           },
           {
-            url: "https://soundcloud.com/vgmc/mr-frostys-stage-kirbys-block?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-6?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Stage 6 - Kirby's Block Ball",
           },
           {
@@ -4009,7 +4009,7 @@ var app = (function () {
             answer: "Frozen Hillside - Kirby Air Ride",
           },
           {
-            url: "https://soundcloud.com/vgmc/complete-ending-kirbys-block?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "",
             answer: "Staff Roll/Credits - Kirby's Block Ball",
           },
           {
@@ -4037,7 +4037,7 @@ var app = (function () {
             answer: "Kawasaki - Kirby's Star Stacker",
           },
           {
-            url: "https://soundcloud.com/vgmc/krackos-stage-kirbys-block?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-7?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Stage 7 - Kirby's Block Ball",
           },
           {
@@ -4109,7 +4109,7 @@ var app = (function () {
             answer: "Opening - Kirby Canvas Curse",
           },
           {
-            url: "https://soundcloud.com/vgmc/kaboolas-stage-kirbys-block?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-9?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Stage 9 - Kirby's Block Ball",
           },
           {
@@ -4173,7 +4173,7 @@ var app = (function () {
             answer: "Magma Flows - Kirby Air Ride",
           },
           {
-            url: "https://soundcloud.com/vgmc/cappys-stage-kirbys-block-ball?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/stage-2?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Stage 1 - Kirby's Block Ball",
           },
           {
@@ -4197,7 +4197,7 @@ var app = (function () {
             answer: "Frozen Fantasy - Kirby Canvas Curse",
           },
           {
-            url: "https://soundcloud.com/vgmc/brobos-stage-kirbys-block-ball?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-10?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Stage 10 - Kirby's Block Ball",
           },
           {
@@ -4217,7 +4217,7 @@ var app = (function () {
             answer: "Showdown with Dedede - Kirby's Dream Course",
           },
           {
-            url: "https://soundcloud.com/vgmc/boss-theme-kirbys-block-ball?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/boss-theme?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Boss Battle - Kirby's Block Ball",
           },
           {
@@ -4245,7 +4245,7 @@ var app = (function () {
             answer: "Learn the Rules (Tutorial) - Kirby's Dream Course",
           },
           {
-            url: "https://soundcloud.com/vgmc/castle-dedede-stage-kirbys?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-11?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Stage 11 - Kirby's Block Ball",
           },
           {
@@ -4273,7 +4273,7 @@ var app = (function () {
             answer: "Tiny Town - Kirby Canvas Curse",
           },
           {
-            url: "https://soundcloud.com/vgmc/bad-ending-kirbys-block-ball?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "",
             answer: "The End - Kirby's Block Ball",
           },
           {
@@ -4317,7 +4317,7 @@ var app = (function () {
             answer: "File Select - Kirby's Block Ball",
           },
           {
-            url: "https://soundcloud.com/vgmc/bonus-game-kirbys-block-ball?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "",
             answer: "Bonus Game - Kirby's Block Ball",
           },
           {
@@ -4393,7 +4393,7 @@ var app = (function () {
             answer: "Unrivaled Size - Kirby Mass Attack",
           },
           {
-            url: "https://soundcloud.com/vgmc/kabus-stage-kirbys-block-ball?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-3?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Stage 3 - Kirby's Block Ball",
           },
           {
@@ -4409,15 +4409,15 @@ var app = (function () {
             answer: "Mushroom Path - Kirby Mass Attack",
           },
           {
-            url: "https://soundcloud.com/vgmc/poppy-bros-sr-s-stage-kirbys?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/stage-4-kirbys-block-ball-gb?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Stage 4 - Kirby's Block Ball",
           },
           {
-            url: "https://soundcloud.com/vgmc/squishys-stage-kirbys-block?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-2?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Stage 2 - Kirby's Block Ball",
           },
           {
-            url: "https://soundcloud.com/vgmc/whispys-stage-kirbys-block?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-8?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Stage 8 - Kirby's Block Ball",
           },
           {
@@ -4429,7 +4429,7 @@ var app = (function () {
             answer: "Jigsaw Plains - Kirby's Dream Course",
           },
           {
-            url: "https://soundcloud.com/vgmc/kaboolas-stage-kirbys-block?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-9?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Stage 9 - Kirby's Block Ball",
           },
           {
@@ -4501,7 +4501,7 @@ var app = (function () {
             answer: "File Select - Kirby's Block Ball",
           },
           {
-            url: "https://soundcloud.com/vgmc/final-boss-theme-kirbys-block?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-dedede?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Dedede Battle - Kirby's Block Ball",
           },
           {
@@ -4517,7 +4517,7 @@ var app = (function () {
             answer: "Stadium: Drag Race - Kirby Air Ride",
           },
           {
-            url: "https://soundcloud.com/vgmc/squishys-stage-kirbys-block?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-2?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Stage 2 - Kirby's Block Ball",
           },
           {
@@ -4529,7 +4529,7 @@ var app = (function () {
             answer: "Top Ride: Metal - Kirby Air Ride",
           },
           {
-            url: "https://soundcloud.com/vgmc/complete-ending-kirbys-block?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "",
             answer: "Staff Roll/Credits - Kirby's Block Ball",
           },
           {
@@ -4537,7 +4537,7 @@ var app = (function () {
             answer: "Drawcia Soul - Kirby Canvas Curse",
           },
           {
-            url: "https://soundcloud.com/vgmc/mr-shine-and-mr-brights-stage?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-5?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Stage 5 - Kirby's Block Ball",
           },
           {
@@ -4553,7 +4553,7 @@ var app = (function () {
             answer: "Stadium: Target Flight - Kirby Air Ride",
           },
           {
-            url: "https://soundcloud.com/vgmc/bad-ending-kirbys-block-ball?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "",
             answer: "The End - Kirby's Block Ball",
           },
           {
@@ -4573,7 +4573,7 @@ var app = (function () {
             answer: "City Trial: Dyna Blade - Kirby Air Ride",
           },
           {
-            url: "https://soundcloud.com/vgmc/mr-frostys-stage-kirbys-block?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-6?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Stage 6 - Kirby's Block Ball",
           },
           {
@@ -4585,7 +4585,7 @@ var app = (function () {
             answer: "City Trial: The Lighthouse Light Burns - Kirby Air Ride",
           },
           {
-            url: "https://soundcloud.com/vgmc/bonus-game-kirbys-block-ball?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "",
             answer: "Bonus Game - Kirby's Block Ball",
           },
           {
@@ -4625,7 +4625,7 @@ var app = (function () {
             answer: "Dedede - Kirby's Star Stacker",
           },
           {
-            url: "https://soundcloud.com/vgmc/poppy-bros-sr-s-stage-kirbys?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/stage-4-kirbys-block-ball-gb?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Stage 4 - Kirby's Block Ball",
           },
           {
@@ -4661,7 +4661,7 @@ var app = (function () {
             answer: "Checker Knights - Kirby Air Ride",
           },
           {
-            url: "https://soundcloud.com/vgmc/castle-dedede-stage-kirbys?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-11?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Stage 11 - Kirby's Block Ball",
           },
           {
@@ -4689,7 +4689,7 @@ var app = (function () {
             answer: "Checking Extras - Kirby Mass Attack",
           },
           {
-            url: "https://soundcloud.com/vgmc/krackos-stage-kirbys-block?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-7?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Stage 7 - Kirby's Block Ball",
           },
           {
@@ -4701,7 +4701,7 @@ var app = (function () {
             answer: "Fearsome Foe - Kirby Mass Attack",
           },
           {
-            url: "https://soundcloud.com/vgmc/brobos-stage-kirbys-block-ball?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-10?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Stage 10 - Kirby's Block Ball",
           },
           {
@@ -4721,7 +4721,7 @@ var app = (function () {
             answer: "Nebula Belt - Kirby Air Ride",
           },
           {
-            url: "https://soundcloud.com/vgmc/whispys-stage-kirbys-block?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-8?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Stage 8 - Kirby's Block Ball",
           },
           {
@@ -4745,7 +4745,7 @@ var app = (function () {
             answer: "Green Fields - Kirby's Dream Course",
           },
           {
-            url: "https://soundcloud.com/vgmc/boss-theme-kirbys-block-ball?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/boss-theme?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Boss Battle - Kirby's Block Ball",
           },
           {
@@ -4773,7 +4773,7 @@ var app = (function () {
             answer: "Top Ride: Water - Kirby Air Ride",
           },
           {
-            url: "https://soundcloud.com/vgmc/kabus-stage-kirbys-block-ball?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-3?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Stage 3 - Kirby's Block Ball",
           },
           {
@@ -4837,7 +4837,7 @@ var app = (function () {
             answer: "Over Water - Kirby's Dream Course",
           },
           {
-            url: "https://soundcloud.com/vgmc/cappys-stage-kirbys-block-ball?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/stage-2?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Stage 1 - Kirby's Block Ball",
           },
           {
@@ -4953,7 +4953,7 @@ var app = (function () {
             answer: "Menu (Game Mode Select) - Kirby Air Ride",
           },
           {
-            url: "https://soundcloud.com/vgmc/poppy-bros-sr-s-stage-kirbys?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/stage-4-kirbys-block-ball-gb?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Stage 4 - Kirby's Block Ball",
           },
           {
@@ -4977,15 +4977,15 @@ var app = (function () {
             answer: "Story - Kirby's Star Stacker",
           },
           {
-            url: "https://soundcloud.com/vgmc/squishys-stage-kirbys-block?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-2?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Stage 2 - Kirby's Block Ball",
           },
           {
-            url: "https://soundcloud.com/vgmc/whispys-stage-kirbys-block?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-8?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Stage 8 - Kirby's Block Ball",
           },
           {
-            url: "https://soundcloud.com/vgmc/final-boss-theme-kirbys-block?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-dedede?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Dedede Battle - Kirby's Block Ball",
           },
           {
@@ -4993,7 +4993,7 @@ var app = (function () {
             answer: "Menu - Kirby's Star Stacker",
           },
           {
-            url: "https://soundcloud.com/vgmc/mr-frostys-stage-kirbys-block?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-6?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Stage 6 - Kirby's Block Ball",
           },
           {
@@ -5113,7 +5113,7 @@ var app = (function () {
             answer: "Skulls Swing in - Kirby Mass Attack",
           },
           {
-            url: "https://soundcloud.com/vgmc/krackos-stage-kirbys-block?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-7?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Stage 7 - Kirby's Block Ball",
           },
           {
@@ -5125,7 +5125,7 @@ var app = (function () {
             answer: "Growth Grasses - Kirby Canvas Curse",
           },
           {
-            url: "https://soundcloud.com/vgmc/boss-theme-kirbys-block-ball?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/boss-theme?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Boss Battle - Kirby's Block Ball",
           },
           {
@@ -5133,7 +5133,7 @@ var app = (function () {
             answer: "City Trial - Kirby Air Ride",
           },
           {
-            url: "https://soundcloud.com/vgmc/brobos-stage-kirbys-block-ball?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-10?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Stage 10 - Kirby's Block Ball",
           },
           {
@@ -5165,7 +5165,7 @@ var app = (function () {
             answer: "Invincible Candy - Kirby Mass Attack",
           },
           {
-            url: "https://soundcloud.com/vgmc/castle-dedede-stage-kirbys?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-11?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Stage 11 - Kirby's Block Ball",
           },
           {
@@ -5189,7 +5189,7 @@ var app = (function () {
             answer: "Survival Lobby - Kirby Mass Attack",
           },
           {
-            url: "https://soundcloud.com/vgmc/complete-ending-kirbys-block?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "",
             answer: "Staff Roll/Credits - Kirby's Block Ball",
           },
           {
@@ -5269,7 +5269,7 @@ var app = (function () {
             answer: "Stadium: Drag Race - Kirby Air Ride",
           },
           {
-            url: "https://soundcloud.com/vgmc/kaboolas-stage-kirbys-block?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-9?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Stage 9 - Kirby's Block Ball",
           },
           {
@@ -5277,7 +5277,7 @@ var app = (function () {
             answer: "Drawcia Soul - Kirby Canvas Curse",
           },
           {
-            url: "https://soundcloud.com/vgmc/mr-shine-and-mr-brights-stage?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-5?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Stage 5 - Kirby's Block Ball",
           },
           {
@@ -5309,7 +5309,7 @@ var app = (function () {
             answer: "Poppy - Kirby's Star Stacker",
           },
           {
-            url: "https://soundcloud.com/vgmc/bonus-game-kirbys-block-ball?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "",
             answer: "Bonus Game - Kirby's Block Ball",
           },
           {
@@ -5329,7 +5329,7 @@ var app = (function () {
             answer: "Checker Knights - Kirby Air Ride",
           },
           {
-            url: "https://soundcloud.com/vgmc/bad-ending-kirbys-block-ball?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "",
             answer: "The End - Kirby's Block Ball",
           },
           {
@@ -5373,7 +5373,7 @@ var app = (function () {
             answer: "Title - Kirby's Star Stacker",
           },
           {
-            url: "https://soundcloud.com/vgmc/kabus-stage-kirbys-block-ball?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-3?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Stage 3 - Kirby's Block Ball",
           },
           {
@@ -5393,7 +5393,7 @@ var app = (function () {
             answer: "City Trial: Tac/Fake Items - Kirby Air Ride",
           },
           {
-            url: "https://soundcloud.com/vgmc/cappys-stage-kirbys-block-ball?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            url: "https://soundcloud.com/holadrim2487/stage-2?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Stage 1 - Kirby's Block Ball",
           },
           {
