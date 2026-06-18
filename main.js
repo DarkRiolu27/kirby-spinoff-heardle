@@ -5404,6 +5404,4766 @@ var app = (function () {
             url: "https://soundcloud.com/irony-is-a-weapon/city-trial-dense-fog-today?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "City Trial: Dense Fog Today - Kirby Air Ride",
           },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-machine-passage?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Machine Passage - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/survive-it-all-survival-rush?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Survive it All - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/time-to-shine-vs-dark-matter-2?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Time to Shine - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/city-trial-city?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/learn-the-rules?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Learn the Rules (Tutorial) - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-flying-meteor?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Flying Meteor - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/showdown?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Showdown - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/space-valley?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Space Valley - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/lovely?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Lovely - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/action-heaven-vs-max-flexer?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Action Heaven - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-frozen-hillside?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Frozen Hillside - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/title?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/stadium-kirby-melee?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stadium: Kirby Melee - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/ending-cinema-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Ending Cinema - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/invincible-candy?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Invincible Candy - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/top-ride-sky?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Sky - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-5?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 5 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/unrivaled-size-jumbo-candy?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Unrivaled Size - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/elsrm3/kirby-air-ride-the-legendary?in=storyshift-asriel-dreemurr/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Legendary Air Ride Machine - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/green-fields?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Green Fields - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-dyna-blade-intro?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Dyna Blade - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/spectacle-space-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Spectacle Space - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/silent-seabed-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Silent Seabed - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/meta-knight?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Meta Knight - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/kirby-quest-title-screen?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Kirby Quest - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/knuckle-joe?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Knuckle Joe - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-celestial-valley?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Celestial Valley - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/top-ride-grass?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Grass - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/high-scores-1?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "High Scores - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/staff-roll?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Staff Roll/Credits - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/battle-extremes?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Battle Extremes - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/story?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Story - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-7?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 7 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/top-ride-metal?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Metal - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/well-played-all-medals?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Well Played - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/menu?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Menu - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/opening-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/fearsome-foe?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Fearsome Foe - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/the-tricky-stuff?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "The Tricky Stuff - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-checker-knights?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Checker Knights - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-magma-flows?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Magma Flows - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/waddle-dee?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Waddle Dee - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-whats-in-the-box?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: What's in the Box? (No Fair! The Boxes All Contain the Same Item!) - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/ran-dum/kirby-air-ride-light?in=storyshift-asriel-dreemurr/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Light - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/frozen-fantasy-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Frozen Fantasy - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/out-of-the-holes-smash-em-up?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Out of the Holes - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/pinball-play?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Pinball Play - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/rhyley-byrd/kirby-canvas-curse-tiny-town?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Tiny Town - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/mad-mechanism-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Mad Mechanism - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/green-grounds-map?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Green Grounds - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-3?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 3 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/showdown-with-dedede?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Showdown with Dedede - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/rickotang/kirby-canvas-curse-music-track-02-training?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Training - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/mushroom-path-hopscotch-time?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Mushroom Path - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/ride-to-the-sky?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Ride to the Sky (Results Screen) - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/stadium-target-flight?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stadium: Target Flight - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-dedede?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dedede Battle - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/cloudy-mountain-peaks?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Cloudy Mountain Peaks - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-huge-pillar?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Huge Pillar - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/the-world-of-drawcia-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "The World of Drawcia - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/survival-lobby?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Survival Lobby - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/game-over-1?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Game Over - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/duel-on-the-dream-course?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Duel on the Dream Course (2P Course Select) - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/stadium-drag-race?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stadium: Drag Race - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/game-over?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Game Over - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/castles-of-cake?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Castles of Cake - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/vgmc/file-select-kirbys-block-ball?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "File Select - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/menu?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Menu (Game Mode Select) - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/crystalphantasm/drawcia-sorceress?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Drawcia Sorceress - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-dense-fog-today?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Dense Fog Today - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/skulls-swing-in?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Skulls Swing in - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-nebula-belt?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Nebula Belt - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/dark-island?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dark Island - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/grill?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Grill - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-tac-challenge?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Tac/Fake Items - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/iceberg-ocean?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Iceberg Ocean - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/nickisjamminet/kirby-tilt-n-tumble-simple?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Simple Stage - Kirby Tilt 'n' Tumble",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/top-ride-sand?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Sand - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/mushroomguy/kirby-canvas-curse-music-track?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Menus - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/top-ride-fire?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Fire - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/foes-spring-up?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Foes Spring Up - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/jigsaw-plains?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Jigsaw Plains - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/kawasaki?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Kawasaki - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-8?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 8 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/growth-grass-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Growth Grasses - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/before-you-start?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Before You Start (Course Intro Cutscene) - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/cyalm/kracko-kirby-canvas-curse?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Kracko - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-the-lighthouse?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: The Lighthouse Light Burns - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-item-bounce?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Item Bounce - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/checking-extras?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Checking Extras - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/dream-land?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dream Land (Course Select) - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/kirbys-dream-course?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-sky-sands?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sky Sands - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-beanstalk-park?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Beanstalk Park - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/poppy?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Poppy - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/top-ride-water?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Water - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-fantasy-meadows?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Fantasy Meadows - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/daveytheduckgaming/drawcia-soul?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Drawcia Soul - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/opening?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening Cutscene - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/rally-forth?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Rally Forth - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/the-first-hole?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "The First Hole - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/big-gold-star?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Big Gold Star - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/star-card?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Star Card (File Select) - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/dedede?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dedede - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/fish-leggington/kirby-canvas-curse-music-paint-panic?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Paint Panic - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-11?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 11 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/scorecard?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Scorecard - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-6?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 6 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-10?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 10 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/vgmc/title-kirbys-block-ball-1996?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Theme - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-station-fire?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Station Fire/Mysterious Flying Machine - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/over-water?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Over Water - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/stadium-air-glider?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stadium: Air Glider/High Jump - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-9?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 9 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-2?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 2 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/stage-4-kirbys-block-ball-gb?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 4 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/boss-theme?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/stage-2?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 1 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/vgmc/stage-example-kirbys-block?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Demo - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/stadium-air-glider?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stadium: Air Glider/High Jump - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-huge-pillar?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Huge Pillar - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/fearsome-foe?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Fearsome Foe - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/fish-leggington/kirby-canvas-curse-music-paint-panic?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Paint Panic - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/battle-extremes?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Battle Extremes - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/dark-island?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dark Island - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/opening?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening Cutscene - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-tac-challenge?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Tac/Fake Items - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/knuckle-joe?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Knuckle Joe - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/kawasaki?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Kawasaki - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/scorecard?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Scorecard - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/opening-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/lovely?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Lovely - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/menu?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Menu (Game Mode Select) - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/ending-cinema-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Ending Cinema - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-checker-knights?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Checker Knights - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/growth-grass-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Growth Grasses - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-6?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 6 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/castles-of-cake?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Castles of Cake - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/mushroomguy/kirby-canvas-curse-music-track?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Menus - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-whats-in-the-box?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: What's in the Box? (No Fair! The Boxes All Contain the Same Item!) - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/dream-land?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dream Land (Course Select) - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/kirby-quest-title-screen?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Kirby Quest - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/top-ride-fire?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Fire - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/poppy?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Poppy - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/game-over?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Game Over - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-celestial-valley?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Celestial Valley - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/action-heaven-vs-max-flexer?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Action Heaven - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/green-grounds-map?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Green Grounds - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/the-tricky-stuff?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "The Tricky Stuff - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/crystalphantasm/drawcia-sorceress?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Drawcia Sorceress - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/space-valley?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Space Valley - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-dyna-blade-intro?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Dyna Blade - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-dense-fog-today?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Dense Fog Today - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/stage-4-kirbys-block-ball-gb?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 4 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-fantasy-meadows?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Fantasy Meadows - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/waddle-dee?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Waddle Dee - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-frozen-hillside?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Frozen Hillside - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-machine-passage?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Machine Passage - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/boss-theme?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/survive-it-all-survival-rush?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Survive it All - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-9?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 9 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/dedede?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dedede - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/spectacle-space-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Spectacle Space - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-8?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 8 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/foes-spring-up?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Foes Spring Up - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/grill?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Grill - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-the-lighthouse?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: The Lighthouse Light Burns - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-10?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 10 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/mad-mechanism-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Mad Mechanism - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/vgmc/title-kirbys-block-ball-1996?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Theme - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-2?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 2 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/iceberg-ocean?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Iceberg Ocean - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/daveytheduckgaming/drawcia-soul?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Drawcia Soul - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/menu?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Menu - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/ride-to-the-sky?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Ride to the Sky (Results Screen) - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/time-to-shine-vs-dark-matter-2?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Time to Shine - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-11?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 11 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/top-ride-water?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Water - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/vgmc/file-select-kirbys-block-ball?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "File Select - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/duel-on-the-dream-course?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Duel on the Dream Course (2P Course Select) - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-station-fire?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Station Fire/Mysterious Flying Machine - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/unrivaled-size-jumbo-candy?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Unrivaled Size - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/silent-seabed-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Silent Seabed - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/pinball-play?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Pinball Play - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/cloudy-mountain-peaks?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Cloudy Mountain Peaks - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-sky-sands?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sky Sands - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/kirbys-dream-course?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-nebula-belt?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Nebula Belt - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/game-over-1?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Game Over - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/rickotang/kirby-canvas-curse-music-track-02-training?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Training - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/stage-2?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 1 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/over-water?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Over Water - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/staff-roll?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Staff Roll/Credits - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/stadium-kirby-melee?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stadium: Kirby Melee - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/out-of-the-holes-smash-em-up?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Out of the Holes - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/title?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/stadium-target-flight?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stadium: Target Flight - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/cyalm/kracko-kirby-canvas-curse?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Kracko - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/well-played-all-medals?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Well Played - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/mushroom-path-hopscotch-time?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Mushroom Path - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-magma-flows?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Magma Flows - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/top-ride-sand?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Sand - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-7?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 7 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/the-world-of-drawcia-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "The World of Drawcia - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/elsrm3/kirby-air-ride-the-legendary?in=storyshift-asriel-dreemurr/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Legendary Air Ride Machine - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/big-gold-star?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Big Gold Star - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/star-card?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Star Card (File Select) - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/top-ride-sky?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Sky - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/showdown-with-dedede?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Showdown with Dedede - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/checking-extras?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Checking Extras - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/top-ride-metal?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Metal - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/nickisjamminet/kirby-tilt-n-tumble-simple?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Simple Stage - Kirby Tilt 'n' Tumble",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-3?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 3 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/learn-the-rules?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Learn the Rules (Tutorial) - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/top-ride-grass?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Grass - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/the-first-hole?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "The First Hole - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-flying-meteor?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Flying Meteor - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-beanstalk-park?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Beanstalk Park - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/rally-forth?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Rally Forth - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/stadium-drag-race?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stadium: Drag Race - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-item-bounce?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Item Bounce - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/ran-dum/kirby-air-ride-light?in=storyshift-asriel-dreemurr/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Light - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-5?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 5 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/story?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Story - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/city-trial-city?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/before-you-start?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Before You Start (Course Intro Cutscene) - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/high-scores-1?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "High Scores - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/skulls-swing-in?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Skulls Swing in - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/invincible-candy?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Invincible Candy - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/frozen-fantasy-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Frozen Fantasy - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/vgmc/stage-example-kirbys-block?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Demo - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-dedede?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dedede Battle - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/survival-lobby?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Survival Lobby - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/meta-knight?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Meta Knight - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/rhyley-byrd/kirby-canvas-curse-tiny-town?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Tiny Town - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/showdown?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Showdown - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/green-fields?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Green Fields - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/jigsaw-plains?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Jigsaw Plains - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/big-gold-star?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Big Gold Star - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/stadium-air-glider?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stadium: Air Glider/High Jump - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-nebula-belt?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Nebula Belt - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/ending-cinema-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Ending Cinema - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/stadium-kirby-melee?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stadium: Kirby Melee - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-10?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 10 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/jigsaw-plains?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Jigsaw Plains - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/staff-roll?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Staff Roll/Credits - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/the-first-hole?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "The First Hole - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-the-lighthouse?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: The Lighthouse Light Burns - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/cyalm/kracko-kirby-canvas-curse?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Kracko - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/rickotang/kirby-canvas-curse-music-track-02-training?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Training - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/top-ride-sky?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Sky - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/well-played-all-medals?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Well Played - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/top-ride-water?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Water - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/green-grounds-map?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Green Grounds - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/dark-island?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dark Island - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/ride-to-the-sky?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Ride to the Sky (Results Screen) - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-3?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 3 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/mad-mechanism-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Mad Mechanism - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/the-tricky-stuff?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "The Tricky Stuff - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/waddle-dee?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Waddle Dee - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/mushroomguy/kirby-canvas-curse-music-track?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Menus - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/cloudy-mountain-peaks?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Cloudy Mountain Peaks - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/frozen-fantasy-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Frozen Fantasy - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/game-over?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Game Over - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/stadium-drag-race?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stadium: Drag Race - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-dyna-blade-intro?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Dyna Blade - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-huge-pillar?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Huge Pillar - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/opening-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/vgmc/stage-example-kirbys-block?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Demo - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/stadium-target-flight?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stadium: Target Flight - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/duel-on-the-dream-course?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Duel on the Dream Course (2P Course Select) - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/star-card?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Star Card (File Select) - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/the-world-of-drawcia-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "The World of Drawcia - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/elsrm3/kirby-air-ride-the-legendary?in=storyshift-asriel-dreemurr/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Legendary Air Ride Machine - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-7?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 7 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-machine-passage?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Machine Passage - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/before-you-start?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Before You Start (Course Intro Cutscene) - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-item-bounce?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Item Bounce - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/top-ride-metal?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Metal - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-magma-flows?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Magma Flows - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-station-fire?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Station Fire/Mysterious Flying Machine - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-dedede?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dedede Battle - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/space-valley?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Space Valley - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/poppy?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Poppy - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/over-water?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Over Water - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-tac-challenge?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Tac/Fake Items - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-whats-in-the-box?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: What's in the Box? (No Fair! The Boxes All Contain the Same Item!) - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/top-ride-fire?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Fire - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/time-to-shine-vs-dark-matter-2?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Time to Shine - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/kirby-quest-title-screen?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Kirby Quest - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/vgmc/file-select-kirbys-block-ball?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "File Select - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/out-of-the-holes-smash-em-up?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Out of the Holes - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/kawasaki?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Kawasaki - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/vgmc/title-kirbys-block-ball-1996?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Theme - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/invincible-candy?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Invincible Candy - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/top-ride-grass?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Grass - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/spectacle-space-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Spectacle Space - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/showdown-with-dedede?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Showdown with Dedede - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/fish-leggington/kirby-canvas-curse-music-paint-panic?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Paint Panic - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-dense-fog-today?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Dense Fog Today - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-8?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 8 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-celestial-valley?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Celestial Valley - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/foes-spring-up?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Foes Spring Up - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/stage-2?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 1 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/boss-theme?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/meta-knight?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Meta Knight - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/daveytheduckgaming/drawcia-soul?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Drawcia Soul - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/ran-dum/kirby-air-ride-light?in=storyshift-asriel-dreemurr/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Light - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/dream-land?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dream Land (Course Select) - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/opening?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening Cutscene - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/story?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Story - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/crystalphantasm/drawcia-sorceress?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Drawcia Sorceress - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/mushroom-path-hopscotch-time?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Mushroom Path - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/kirbys-dream-course?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/checking-extras?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Checking Extras - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/grill?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Grill - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-11?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 11 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-frozen-hillside?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Frozen Hillside - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/lovely?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Lovely - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/menu?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Menu - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/battle-extremes?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Battle Extremes - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/title?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/skulls-swing-in?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Skulls Swing in - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-sky-sands?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sky Sands - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/game-over-1?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Game Over - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-beanstalk-park?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Beanstalk Park - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/unrivaled-size-jumbo-candy?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Unrivaled Size - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/showdown?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Showdown - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-fantasy-meadows?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Fantasy Meadows - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/rally-forth?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Rally Forth - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-2?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 2 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-checker-knights?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Checker Knights - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/survival-lobby?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Survival Lobby - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/green-fields?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Green Fields - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-flying-meteor?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Flying Meteor - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/menu?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Menu (Game Mode Select) - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/learn-the-rules?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Learn the Rules (Tutorial) - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/top-ride-sand?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Sand - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/nickisjamminet/kirby-tilt-n-tumble-simple?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Simple Stage - Kirby Tilt 'n' Tumble",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/growth-grass-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Growth Grasses - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/stage-4-kirbys-block-ball-gb?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 4 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/fearsome-foe?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Fearsome Foe - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/action-heaven-vs-max-flexer?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Action Heaven - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-9?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 9 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/pinball-play?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Pinball Play - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/high-scores-1?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "High Scores - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/silent-seabed-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Silent Seabed - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-6?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 6 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/dedede?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dedede - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/rhyley-byrd/kirby-canvas-curse-tiny-town?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Tiny Town - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/scorecard?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Scorecard - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/survive-it-all-survival-rush?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Survive it All - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/castles-of-cake?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Castles of Cake - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/city-trial-city?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/knuckle-joe?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Knuckle Joe - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-5?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 5 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/iceberg-ocean?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Iceberg Ocean - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/poppy?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Poppy - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/stage-2?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 1 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-whats-in-the-box?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: What's in the Box? (No Fair! The Boxes All Contain the Same Item!) - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/space-valley?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Space Valley - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/over-water?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Over Water - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/jigsaw-plains?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Jigsaw Plains - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/daveytheduckgaming/drawcia-soul?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Drawcia Soul - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-6?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 6 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/unrivaled-size-jumbo-candy?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Unrivaled Size - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-magma-flows?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Magma Flows - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-8?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 8 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/ran-dum/kirby-air-ride-light?in=storyshift-asriel-dreemurr/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Light - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/well-played-all-medals?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Well Played - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/green-grounds-map?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Green Grounds - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-celestial-valley?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Celestial Valley - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/waddle-dee?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Waddle Dee - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/action-heaven-vs-max-flexer?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Action Heaven - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/lovely?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Lovely - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-flying-meteor?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Flying Meteor - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/title?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/stadium-kirby-melee?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stadium: Kirby Melee - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/vgmc/stage-example-kirbys-block?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Demo - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/ride-to-the-sky?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Ride to the Sky (Results Screen) - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/scorecard?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Scorecard - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/showdown-with-dedede?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Showdown with Dedede - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-nebula-belt?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Nebula Belt - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/big-gold-star?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Big Gold Star - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-11?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 11 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-dense-fog-today?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Dense Fog Today - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/cyalm/kracko-kirby-canvas-curse?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Kracko - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/duel-on-the-dream-course?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Duel on the Dream Course (2P Course Select) - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/green-fields?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Green Fields - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-7?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 7 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/battle-extremes?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Battle Extremes - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/top-ride-sand?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Sand - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/stadium-air-glider?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stadium: Air Glider/High Jump - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/pinball-play?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Pinball Play - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/fish-leggington/kirby-canvas-curse-music-paint-panic?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Paint Panic - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/stage-4-kirbys-block-ball-gb?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 4 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/staff-roll?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Staff Roll/Credits - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/before-you-start?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Before You Start (Course Intro Cutscene) - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-frozen-hillside?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Frozen Hillside - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/city-trial-city?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/rally-forth?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Rally Forth - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/cloudy-mountain-peaks?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Cloudy Mountain Peaks - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/top-ride-sky?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Sky - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-fantasy-meadows?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Fantasy Meadows - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-tac-challenge?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Tac/Fake Items - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/top-ride-grass?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Grass - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-the-lighthouse?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: The Lighthouse Light Burns - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-beanstalk-park?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Beanstalk Park - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/the-tricky-stuff?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "The Tricky Stuff - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/kirby-quest-title-screen?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Kirby Quest - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/ending-cinema-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Ending Cinema - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/rhyley-byrd/kirby-canvas-curse-tiny-town?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Tiny Town - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/top-ride-metal?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Metal - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-huge-pillar?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Huge Pillar - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/learn-the-rules?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Learn the Rules (Tutorial) - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/mushroomguy/kirby-canvas-curse-music-track?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Menus - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/opening?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening Cutscene - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/dedede?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dedede - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/growth-grass-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Growth Grasses - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/foes-spring-up?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Foes Spring Up - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/vgmc/title-kirbys-block-ball-1996?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Theme - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/crystalphantasm/drawcia-sorceress?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Drawcia Sorceress - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-5?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 5 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-item-bounce?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Item Bounce - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/stadium-target-flight?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stadium: Target Flight - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-9?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 9 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/time-to-shine-vs-dark-matter-2?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Time to Shine - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/vgmc/file-select-kirbys-block-ball?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "File Select - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/opening-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/high-scores-1?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "High Scores - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-dedede?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dedede Battle - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/silent-seabed-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Silent Seabed - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/game-over-1?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Game Over - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/spectacle-space-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Spectacle Space - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/skulls-swing-in?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Skulls Swing in - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/nickisjamminet/kirby-tilt-n-tumble-simple?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Simple Stage - Kirby Tilt 'n' Tumble",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/iceberg-ocean?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Iceberg Ocean - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/the-first-hole?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "The First Hole - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/game-over?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Game Over - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/menu?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Menu (Game Mode Select) - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-2?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 2 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/dark-island?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dark Island - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/survival-lobby?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Survival Lobby - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/invincible-candy?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Invincible Candy - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/top-ride-fire?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Fire - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/survive-it-all-survival-rush?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Survive it All - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/out-of-the-holes-smash-em-up?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Out of the Holes - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/showdown?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Showdown - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/meta-knight?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Meta Knight - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/mad-mechanism-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Mad Mechanism - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/fearsome-foe?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Fearsome Foe - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/top-ride-water?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Water - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/dream-land?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dream Land (Course Select) - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-machine-passage?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Machine Passage - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/castles-of-cake?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Castles of Cake - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/stadium-drag-race?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stadium: Drag Race - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-10?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 10 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/rickotang/kirby-canvas-curse-music-track-02-training?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Training - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-3?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 3 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/grill?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Grill - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/the-world-of-drawcia-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "The World of Drawcia - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/checking-extras?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Checking Extras - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/kirbys-dream-course?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-dyna-blade-intro?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Dyna Blade - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/kawasaki?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Kawasaki - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-station-fire?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Station Fire/Mysterious Flying Machine - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/knuckle-joe?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Knuckle Joe - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/mushroom-path-hopscotch-time?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Mushroom Path - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/elsrm3/kirby-air-ride-the-legendary?in=storyshift-asriel-dreemurr/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Legendary Air Ride Machine - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/menu?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Menu - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-checker-knights?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Checker Knights - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/frozen-fantasy-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Frozen Fantasy - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/story?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Story - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/boss-theme?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/star-card?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Star Card (File Select) - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-sky-sands?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sky Sands - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-dense-fog-today?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Dense Fog Today - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/boss-theme?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/stadium-drag-race?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stadium: Drag Race - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/ride-to-the-sky?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Ride to the Sky (Results Screen) - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-frozen-hillside?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Frozen Hillside - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/duel-on-the-dream-course?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Duel on the Dream Course (2P Course Select) - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-nebula-belt?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Nebula Belt - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/top-ride-fire?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Fire - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/battle-extremes?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Battle Extremes - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/star-card?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Star Card (File Select) - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/nickisjamminet/kirby-tilt-n-tumble-simple?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Simple Stage - Kirby Tilt 'n' Tumble",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-9?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 9 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-fantasy-meadows?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Fantasy Meadows - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-beanstalk-park?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Beanstalk Park - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/stadium-target-flight?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stadium: Target Flight - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/rhyley-byrd/kirby-canvas-curse-tiny-town?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Tiny Town - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/growth-grass-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Growth Grasses - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/out-of-the-holes-smash-em-up?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Out of the Holes - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/green-grounds-map?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Green Grounds - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/top-ride-metal?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Metal - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-6?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 6 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-item-bounce?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Item Bounce - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/the-tricky-stuff?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "The Tricky Stuff - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/mushroomguy/kirby-canvas-curse-music-track?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Menus - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/time-to-shine-vs-dark-matter-2?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Time to Shine - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-8?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 8 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/daveytheduckgaming/drawcia-soul?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Drawcia Soul - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/checking-extras?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Checking Extras - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/mushroom-path-hopscotch-time?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Mushroom Path - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-machine-passage?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Machine Passage - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/knuckle-joe?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Knuckle Joe - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/showdown-with-dedede?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Showdown with Dedede - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/pinball-play?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Pinball Play - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/meta-knight?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Meta Knight - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-5?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 5 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/fish-leggington/kirby-canvas-curse-music-paint-panic?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Paint Panic - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/kirby-quest-title-screen?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Kirby Quest - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/the-world-of-drawcia-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "The World of Drawcia - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-celestial-valley?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Celestial Valley - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/dedede?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dedede - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/opening?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening Cutscene - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/city-trial-city?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/fearsome-foe?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Fearsome Foe - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/menu?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Menu (Game Mode Select) - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/jigsaw-plains?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Jigsaw Plains - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/foes-spring-up?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Foes Spring Up - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-tac-challenge?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Tac/Fake Items - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-dyna-blade-intro?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Dyna Blade - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/game-over?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Game Over - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-huge-pillar?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Huge Pillar - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/green-fields?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Green Fields - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-dedede?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dedede Battle - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-magma-flows?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Magma Flows - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/top-ride-sand?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Sand - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-sky-sands?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sky Sands - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/title?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/survive-it-all-survival-rush?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Survive it All - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/staff-roll?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Staff Roll/Credits - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/scorecard?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Scorecard - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/stage-4-kirbys-block-ball-gb?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 4 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/the-first-hole?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "The First Hole - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-the-lighthouse?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: The Lighthouse Light Burns - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-11?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 11 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/iceberg-ocean?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Iceberg Ocean - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/top-ride-water?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Water - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/top-ride-sky?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Sky - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/cyalm/kracko-kirby-canvas-curse?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Kracko - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-flying-meteor?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Flying Meteor - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/menu?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Menu - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/opening-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/game-over-1?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Game Over - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/kawasaki?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Kawasaki - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/rickotang/kirby-canvas-curse-music-track-02-training?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Training - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/dream-land?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dream Land (Course Select) - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/castles-of-cake?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Castles of Cake - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-2?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 2 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/action-heaven-vs-max-flexer?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Action Heaven - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/space-valley?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Space Valley - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/top-ride-grass?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Grass - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/frozen-fantasy-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Frozen Fantasy - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-3?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 3 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/survival-lobby?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Survival Lobby - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-10?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 10 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/kirbys-dream-course?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/learn-the-rules?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Learn the Rules (Tutorial) - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/rally-forth?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Rally Forth - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/ending-cinema-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Ending Cinema - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/lovely?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Lovely - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/stage-2?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 1 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/ran-dum/kirby-air-ride-light?in=storyshift-asriel-dreemurr/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Light - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/cloudy-mountain-peaks?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Cloudy Mountain Peaks - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/invincible-candy?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Invincible Candy - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-7?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 7 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/vgmc/file-select-kirbys-block-ball?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "File Select - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/over-water?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Over Water - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/waddle-dee?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Waddle Dee - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/elsrm3/kirby-air-ride-the-legendary?in=storyshift-asriel-dreemurr/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Legendary Air Ride Machine - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/vgmc/title-kirbys-block-ball-1996?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Theme - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/silent-seabed-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Silent Seabed - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/stadium-kirby-melee?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stadium: Kirby Melee - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/stadium-air-glider?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stadium: Air Glider/High Jump - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/grill?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Grill - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/vgmc/stage-example-kirbys-block?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Demo - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/well-played-all-medals?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Well Played - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/crystalphantasm/drawcia-sorceress?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Drawcia Sorceress - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/story?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Story - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-checker-knights?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Checker Knights - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/poppy?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Poppy - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/dark-island?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dark Island - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/spectacle-space-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Spectacle Space - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/showdown?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Showdown - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/unrivaled-size-jumbo-candy?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Unrivaled Size - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/high-scores-1?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "High Scores - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/skulls-swing-in?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Skulls Swing in - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-station-fire?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Station Fire/Mysterious Flying Machine - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/big-gold-star?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Big Gold Star - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-whats-in-the-box?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: What's in the Box? (No Fair! The Boxes All Contain the Same Item!) - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/before-you-start?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Before You Start (Course Intro Cutscene) - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/mad-mechanism-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Mad Mechanism - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-2?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 2 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/iceberg-ocean?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Iceberg Ocean - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/top-ride-fire?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Fire - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/over-water?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Over Water - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-dedede?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dedede Battle - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/castles-of-cake?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Castles of Cake - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/knuckle-joe?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Knuckle Joe - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/kirby-quest-title-screen?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Kirby Quest - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/opening?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening Cutscene - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-celestial-valley?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Celestial Valley - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/stadium-target-flight?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stadium: Target Flight - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/dedede?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dedede - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/silent-seabed-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Silent Seabed - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/daveytheduckgaming/drawcia-soul?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Drawcia Soul - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-9?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 9 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/vgmc/file-select-kirbys-block-ball?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "File Select - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/the-world-of-drawcia-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "The World of Drawcia - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/jigsaw-plains?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Jigsaw Plains - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/battle-extremes?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Battle Extremes - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/survive-it-all-survival-rush?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Survive it All - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-tac-challenge?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Tac/Fake Items - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-dyna-blade-intro?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Dyna Blade - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/showdown-with-dedede?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Showdown with Dedede - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/lovely?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Lovely - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-magma-flows?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Magma Flows - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-5?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 5 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/survival-lobby?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Survival Lobby - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/ride-to-the-sky?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Ride to the Sky (Results Screen) - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/elsrm3/kirby-air-ride-the-legendary?in=storyshift-asriel-dreemurr/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Legendary Air Ride Machine - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/well-played-all-medals?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Well Played - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/the-first-hole?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "The First Hole - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-frozen-hillside?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Frozen Hillside - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/fish-leggington/kirby-canvas-curse-music-paint-panic?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Paint Panic - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-huge-pillar?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Huge Pillar - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/menu?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Menu (Game Mode Select) - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/top-ride-sky?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Sky - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-10?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 10 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/menu?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Menu - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/top-ride-grass?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Grass - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/opening-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/big-gold-star?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Big Gold Star - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/rally-forth?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Rally Forth - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-machine-passage?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Machine Passage - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/before-you-start?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Before You Start (Course Intro Cutscene) - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/kawasaki?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Kawasaki - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/green-fields?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Green Fields - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/stadium-air-glider?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stadium: Air Glider/High Jump - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/stage-2?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 1 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/ran-dum/kirby-air-ride-light?in=storyshift-asriel-dreemurr/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Light - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-beanstalk-park?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Beanstalk Park - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/time-to-shine-vs-dark-matter-2?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Time to Shine - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/high-scores-1?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "High Scores - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/pinball-play?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Pinball Play - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/boss-theme?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-8?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 8 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-11?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 11 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/action-heaven-vs-max-flexer?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Action Heaven - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/top-ride-metal?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Metal - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/city-trial-city?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/growth-grass-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Growth Grasses - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/staff-roll?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Staff Roll/Credits - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/stadium-drag-race?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stadium: Drag Race - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/title?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/fearsome-foe?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Fearsome Foe - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/nickisjamminet/kirby-tilt-n-tumble-simple?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Simple Stage - Kirby Tilt 'n' Tumble",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-3?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 3 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/game-over?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Game Over - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/the-tricky-stuff?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "The Tricky Stuff - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/checking-extras?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Checking Extras - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/crystalphantasm/drawcia-sorceress?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Drawcia Sorceress - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/grill?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Grill - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/green-grounds-map?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Green Grounds - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/top-ride-sand?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Sand - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/stadium-kirby-melee?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stadium: Kirby Melee - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-7?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 7 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/star-card?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Star Card (File Select) - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/frozen-fantasy-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Frozen Fantasy - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/skulls-swing-in?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Skulls Swing in - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/cloudy-mountain-peaks?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Cloudy Mountain Peaks - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/ending-cinema-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Ending Cinema - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/cyalm/kracko-kirby-canvas-curse?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Kracko - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/mushroomguy/kirby-canvas-curse-music-track?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Menus - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/out-of-the-holes-smash-em-up?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Out of the Holes - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/waddle-dee?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Waddle Dee - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/foes-spring-up?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Foes Spring Up - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/space-valley?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Space Valley - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-flying-meteor?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Flying Meteor - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-fantasy-meadows?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Fantasy Meadows - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/invincible-candy?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Invincible Candy - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-sky-sands?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sky Sands - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/stage-4-kirbys-block-ball-gb?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 4 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/learn-the-rules?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Learn the Rules (Tutorial) - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/spectacle-space-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Spectacle Space - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-the-lighthouse?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: The Lighthouse Light Burns - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/game-over-1?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Game Over - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-dense-fog-today?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Dense Fog Today - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/dark-island?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dark Island - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/mushroom-path-hopscotch-time?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Mushroom Path - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/story?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Story - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/poppy?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Poppy - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-checker-knights?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Checker Knights - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-whats-in-the-box?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: What's in the Box? (No Fair! The Boxes All Contain the Same Item!) - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/top-ride-water?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Water - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/rhyley-byrd/kirby-canvas-curse-tiny-town?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Tiny Town - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-6?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 6 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/mad-mechanism-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Mad Mechanism - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/duel-on-the-dream-course?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Duel on the Dream Course (2P Course Select) - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/unrivaled-size-jumbo-candy?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Unrivaled Size - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/kirbys-dream-course?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/meta-knight?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Meta Knight - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/showdown?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Showdown - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/dream-land?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dream Land (Course Select) - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-item-bounce?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Item Bounce - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/rickotang/kirby-canvas-curse-music-track-02-training?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Training - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-nebula-belt?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Nebula Belt - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/scorecard?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Scorecard - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/vgmc/title-kirbys-block-ball-1996?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Theme - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/vgmc/stage-example-kirbys-block?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Demo - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-station-fire?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Station Fire/Mysterious Flying Machine - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-huge-pillar?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Huge Pillar - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-dedede?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dedede Battle - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/battle-extremes?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Battle Extremes - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/dedede?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dedede - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/high-scores-1?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "High Scores - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/iceberg-ocean?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Iceberg Ocean - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/story?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Story - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/top-ride-sand?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Sand - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/showdown?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Showdown - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/mushroom-path-hopscotch-time?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Mushroom Path - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/vgmc/file-select-kirbys-block-ball?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "File Select - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/cloudy-mountain-peaks?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Cloudy Mountain Peaks - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-beanstalk-park?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Beanstalk Park - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-station-fire?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Station Fire/Mysterious Flying Machine - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/rickotang/kirby-canvas-curse-music-track-02-training?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Training - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/kirby-quest-title-screen?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Kirby Quest - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-10?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 10 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-8?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 8 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/learn-the-rules?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Learn the Rules (Tutorial) - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/green-grounds-map?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Green Grounds - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-3?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 3 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/duel-on-the-dream-course?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Duel on the Dream Course (2P Course Select) - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-11?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 11 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/fearsome-foe?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Fearsome Foe - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/mad-mechanism-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Mad Mechanism - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/top-ride-metal?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Metal - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/ride-to-the-sky?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Ride to the Sky (Results Screen) - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/survival-lobby?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Survival Lobby - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/daveytheduckgaming/drawcia-soul?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Drawcia Soul - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/survive-it-all-survival-rush?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Survive it All - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/waddle-dee?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Waddle Dee - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/over-water?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Over Water - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/vgmc/title-kirbys-block-ball-1996?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Theme - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/before-you-start?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Before You Start (Course Intro Cutscene) - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/the-tricky-stuff?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "The Tricky Stuff - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/stage-4-kirbys-block-ball-gb?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 4 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/skulls-swing-in?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Skulls Swing in - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/time-to-shine-vs-dark-matter-2?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Time to Shine - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-machine-passage?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Machine Passage - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/top-ride-sky?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Sky - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/jigsaw-plains?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Jigsaw Plains - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/stadium-target-flight?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stadium: Target Flight - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-nebula-belt?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Nebula Belt - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/action-heaven-vs-max-flexer?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Action Heaven - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/foes-spring-up?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Foes Spring Up - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/rally-forth?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Rally Forth - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/unrivaled-size-jumbo-candy?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Unrivaled Size - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/star-card?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Star Card (File Select) - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-flying-meteor?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Flying Meteor - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/kawasaki?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Kawasaki - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-the-lighthouse?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: The Lighthouse Light Burns - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/stadium-drag-race?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stadium: Drag Race - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/invincible-candy?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Invincible Candy - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/top-ride-water?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Water - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/cyalm/kracko-kirby-canvas-curse?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Kracko - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/opening-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-sky-sands?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sky Sands - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/pinball-play?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Pinball Play - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-celestial-valley?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Celestial Valley - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/top-ride-fire?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Fire - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/well-played-all-medals?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Well Played - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/lovely?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Lovely - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/scorecard?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Scorecard - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/opening?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening Cutscene - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/checking-extras?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Checking Extras - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/dark-island?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dark Island - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-item-bounce?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Item Bounce - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-7?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 7 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-checker-knights?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Checker Knights - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-5?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 5 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/vgmc/stage-example-kirbys-block?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Demo - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/showdown-with-dedede?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Showdown with Dedede - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/game-over-1?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Game Over - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/mushroomguy/kirby-canvas-curse-music-track?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Menus - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/ending-cinema-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Ending Cinema - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-9?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 9 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/space-valley?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Space Valley - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/silent-seabed-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Silent Seabed - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-dense-fog-today?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Dense Fog Today - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-6?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 6 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/the-world-of-drawcia-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "The World of Drawcia - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/big-gold-star?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Big Gold Star - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/staff-roll?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Staff Roll/Credits - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/stadium-kirby-melee?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stadium: Kirby Melee - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/castles-of-cake?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Castles of Cake - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/out-of-the-holes-smash-em-up?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Out of the Holes - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/knuckle-joe?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Knuckle Joe - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/city-trial-city?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-frozen-hillside?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Frozen Hillside - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/elsrm3/kirby-air-ride-the-legendary?in=storyshift-asriel-dreemurr/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Legendary Air Ride Machine - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/menu?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Menu - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-dyna-blade-intro?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Dyna Blade - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-whats-in-the-box?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: What's in the Box? (No Fair! The Boxes All Contain the Same Item!) - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/title?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-tac-challenge?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Tac/Fake Items - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/frozen-fantasy-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Frozen Fantasy - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/green-fields?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Green Fields - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-magma-flows?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Magma Flows - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-fantasy-meadows?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Fantasy Meadows - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/boss-theme?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/fish-leggington/kirby-canvas-curse-music-paint-panic?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Paint Panic - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/nickisjamminet/kirby-tilt-n-tumble-simple?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Simple Stage - Kirby Tilt 'n' Tumble",
+          },
+          {
+            url: "https://soundcloud.com/crystalphantasm/drawcia-sorceress?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Drawcia Sorceress - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/rhyley-byrd/kirby-canvas-curse-tiny-town?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Tiny Town - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/grill?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Grill - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/kirbys-dream-course?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/top-ride-grass?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Grass - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/the-first-hole?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "The First Hole - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/game-over?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Game Over - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/poppy?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Poppy - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/spectacle-space-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Spectacle Space - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/ran-dum/kirby-air-ride-light?in=storyshift-asriel-dreemurr/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Light - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/meta-knight?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Meta Knight - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/menu?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Menu (Game Mode Select) - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/stage-2?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 1 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/stadium-air-glider?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stadium: Air Glider/High Jump - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/dream-land?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dream Land (Course Select) - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/growth-grass-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Growth Grasses - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-2?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 2 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/silent-seabed-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Silent Seabed - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/top-ride-fire?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Fire - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/survive-it-all-survival-rush?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Survive it All - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/opening-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/story?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Story - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-tac-challenge?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Tac/Fake Items - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/mushroomguy/kirby-canvas-curse-music-track?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Menus - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/waddle-dee?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Waddle Dee - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-5?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 5 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-item-bounce?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Item Bounce - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/rhyley-byrd/kirby-canvas-curse-tiny-town?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Tiny Town - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-frozen-hillside?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Frozen Hillside - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/high-scores-1?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "High Scores - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/growth-grass-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Growth Grasses - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/knuckle-joe?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Knuckle Joe - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/fish-leggington/kirby-canvas-curse-music-paint-panic?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Paint Panic - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-10?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 10 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/big-gold-star?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Big Gold Star - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/survival-lobby?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Survival Lobby - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-the-lighthouse?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: The Lighthouse Light Burns - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/showdown-with-dedede?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Showdown with Dedede - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-6?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 6 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/vgmc/file-select-kirbys-block-ball?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "File Select - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/scorecard?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Scorecard - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/rally-forth?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Rally Forth - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-whats-in-the-box?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: What's in the Box? (No Fair! The Boxes All Contain the Same Item!) - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/meta-knight?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Meta Knight - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/city-trial-city?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/invincible-candy?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Invincible Candy - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/kirby-quest-title-screen?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Kirby Quest - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/dream-land?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dream Land (Course Select) - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/frozen-fantasy-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Frozen Fantasy - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/action-heaven-vs-max-flexer?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Action Heaven - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/menu?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Menu (Game Mode Select) - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/elsrm3/kirby-air-ride-the-legendary?in=storyshift-asriel-dreemurr/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Legendary Air Ride Machine - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/checking-extras?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Checking Extras - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/foes-spring-up?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Foes Spring Up - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/duel-on-the-dream-course?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Duel on the Dream Course (2P Course Select) - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-7?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 7 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/ride-to-the-sky?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Ride to the Sky (Results Screen) - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/cyalm/kracko-kirby-canvas-curse?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Kracko - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-dyna-blade-intro?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Dyna Blade - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/kirbys-dream-course?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/lovely?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Lovely - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-sky-sands?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sky Sands - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/poppy?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Poppy - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/game-over-1?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Game Over - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/time-to-shine-vs-dark-matter-2?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Time to Shine - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-fantasy-meadows?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Fantasy Meadows - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/stage-4-kirbys-block-ball-gb?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 4 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/fearsome-foe?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Fearsome Foe - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-11?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 11 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/learn-the-rules?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Learn the Rules (Tutorial) - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/nickisjamminet/kirby-tilt-n-tumble-simple?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Simple Stage - Kirby Tilt 'n' Tumble",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/the-world-of-drawcia-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "The World of Drawcia - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/green-grounds-map?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Green Grounds - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/mushroom-path-hopscotch-time?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Mushroom Path - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-station-fire?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Station Fire/Mysterious Flying Machine - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-9?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 9 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/top-ride-sky?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Sky - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/star-card?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Star Card (File Select) - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/top-ride-grass?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Grass - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-machine-passage?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Machine Passage - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/crystalphantasm/drawcia-sorceress?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Drawcia Sorceress - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-flying-meteor?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Flying Meteor - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/before-you-start?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Before You Start (Course Intro Cutscene) - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/stage-2?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 1 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/pinball-play?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Pinball Play - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/stadium-kirby-melee?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stadium: Kirby Melee - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-celestial-valley?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Celestial Valley - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-2?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 2 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-dense-fog-today?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Dense Fog Today - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-nebula-belt?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Nebula Belt - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-magma-flows?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Magma Flows - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/mad-mechanism-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Mad Mechanism - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-huge-pillar?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Huge Pillar - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/ending-cinema-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Ending Cinema - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/ran-dum/kirby-air-ride-light?in=storyshift-asriel-dreemurr/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Light - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/title?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/vgmc/title-kirbys-block-ball-1996?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Theme - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/top-ride-metal?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Metal - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/showdown?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Showdown - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/castles-of-cake?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Castles of Cake - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/menu?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Menu - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/dedede?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dedede - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/grill?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Grill - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/green-fields?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Green Fields - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/top-ride-water?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Water - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/cloudy-mountain-peaks?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Cloudy Mountain Peaks - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-checker-knights?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Checker Knights - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/the-tricky-stuff?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "The Tricky Stuff - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/daveytheduckgaming/drawcia-soul?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Drawcia Soul - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/space-valley?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Space Valley - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/the-first-hole?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "The First Hole - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/unrivaled-size-jumbo-candy?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Unrivaled Size - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-dedede?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dedede Battle - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/stadium-air-glider?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stadium: Air Glider/High Jump - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/opening?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening Cutscene - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/vgmc/stage-example-kirbys-block?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Demo - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/well-played-all-medals?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Well Played - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/staff-roll?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Staff Roll/Credits - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/rickotang/kirby-canvas-curse-music-track-02-training?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Training - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/skulls-swing-in?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Skulls Swing in - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/battle-extremes?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Battle Extremes - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/over-water?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Over Water - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/iceberg-ocean?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Iceberg Ocean - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/stadium-target-flight?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stadium: Target Flight - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/stadium-drag-race?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stadium: Drag Race - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-8?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 8 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-beanstalk-park?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Beanstalk Park - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/boss-theme?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/game-over?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Game Over - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/spectacle-space-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Spectacle Space - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-3?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 3 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/kawasaki?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Kawasaki - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/jigsaw-plains?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Jigsaw Plains - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/out-of-the-holes-smash-em-up?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Out of the Holes - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/dark-island?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dark Island - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/top-ride-sand?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Sand - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-machine-passage?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Machine Passage - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-7?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 7 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/dedede?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dedede - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/ran-dum/kirby-air-ride-light?in=storyshift-asriel-dreemurr/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Light - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-6?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 6 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-2?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 2 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/ending-cinema-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Ending Cinema - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/green-fields?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Green Fields - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/well-played-all-medals?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Well Played - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/vgmc/stage-example-kirbys-block?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Demo - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/stadium-target-flight?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stadium: Target Flight - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/the-tricky-stuff?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "The Tricky Stuff - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/learn-the-rules?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Learn the Rules (Tutorial) - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/opening-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/duel-on-the-dream-course?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Duel on the Dream Course (2P Course Select) - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/cloudy-mountain-peaks?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Cloudy Mountain Peaks - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/elsrm3/kirby-air-ride-the-legendary?in=storyshift-asriel-dreemurr/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Legendary Air Ride Machine - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/city-trial-city?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/survive-it-all-survival-rush?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Survive it All - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-tac-challenge?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Tac/Fake Items - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-11?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 11 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/time-to-shine-vs-dark-matter-2?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Time to Shine - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/menu?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Menu (Game Mode Select) - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/dream-land?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dream Land (Course Select) - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/vgmc/title-kirbys-block-ball-1996?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Theme - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/big-gold-star?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Big Gold Star - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-magma-flows?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Magma Flows - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/top-ride-water?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Water - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/meta-knight?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Meta Knight - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/stadium-air-glider?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stadium: Air Glider/High Jump - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/out-of-the-holes-smash-em-up?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Out of the Holes - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/top-ride-metal?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Metal - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/over-water?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Over Water - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/survival-lobby?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Survival Lobby - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/mushroomguy/kirby-canvas-curse-music-track?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Menus - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/checking-extras?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Checking Extras - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/before-you-start?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Before You Start (Course Intro Cutscene) - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/unrivaled-size-jumbo-candy?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Unrivaled Size - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/battle-extremes?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Battle Extremes - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-3?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 3 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-celestial-valley?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Celestial Valley - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/showdown-with-dedede?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Showdown with Dedede - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/fearsome-foe?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Fearsome Foe - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/kirby-quest-title-screen?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Kirby Quest - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/top-ride-fire?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Fire - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-sky-sands?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sky Sands - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/invincible-candy?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Invincible Candy - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-station-fire?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Station Fire/Mysterious Flying Machine - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/lovely?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Lovely - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/the-first-hole?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "The First Hole - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/showdown?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Showdown - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/iceberg-ocean?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Iceberg Ocean - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/knuckle-joe?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Knuckle Joe - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-9?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 9 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/frozen-fantasy-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Frozen Fantasy - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-beanstalk-park?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Beanstalk Park - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/rickotang/kirby-canvas-curse-music-track-02-training?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Training - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/green-grounds-map?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Green Grounds - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-nebula-belt?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Nebula Belt - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/fish-leggington/kirby-canvas-curse-music-paint-panic?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Paint Panic - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-checker-knights?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Checker Knights - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/opening?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening Cutscene - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/top-ride-sand?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Sand - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/pinball-play?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Pinball Play - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/game-over-1?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Game Over - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/boss-theme?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/jigsaw-plains?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Jigsaw Plains - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/scorecard?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Scorecard - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/rhyley-byrd/kirby-canvas-curse-tiny-town?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Tiny Town - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-5?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 5 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/waddle-dee?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Waddle Dee - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/game-over?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Game Over - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-whats-in-the-box?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: What's in the Box? (No Fair! The Boxes All Contain the Same Item!) - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/daveytheduckgaming/drawcia-soul?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Drawcia Soul - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/top-ride-grass?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Grass - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-dyna-blade-intro?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Dyna Blade - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-fantasy-meadows?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Fantasy Meadows - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/castles-of-cake?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Castles of Cake - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/poppy?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Poppy - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/nickisjamminet/kirby-tilt-n-tumble-simple?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Simple Stage - Kirby Tilt 'n' Tumble",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/spectacle-space-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Spectacle Space - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-10?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 10 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/growth-grass-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Growth Grasses - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/rally-forth?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Rally Forth - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-the-lighthouse?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: The Lighthouse Light Burns - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/action-heaven-vs-max-flexer?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Action Heaven - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/staff-roll?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Staff Roll/Credits - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/cyalm/kracko-kirby-canvas-curse?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Kracko - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/dark-island?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dark Island - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/crystalphantasm/drawcia-sorceress?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Drawcia Sorceress - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/title?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-8?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 8 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/grill?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Grill - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/star-card?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Star Card (File Select) - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/story?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Story - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/top-ride-sky?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Sky - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-huge-pillar?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Huge Pillar - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-frozen-hillside?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Frozen Hillside - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-dedede?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dedede Battle - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-item-bounce?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Item Bounce - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/mushroom-path-hopscotch-time?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Mushroom Path - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/stadium-drag-race?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stadium: Drag Race - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/stage-2?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 1 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/space-valley?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Space Valley - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/ride-to-the-sky?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Ride to the Sky (Results Screen) - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/menu?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Menu - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/mad-mechanism-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Mad Mechanism - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/kirbys-dream-course?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/vgmc/file-select-kirbys-block-ball?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "File Select - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/kawasaki?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Kawasaki - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/silent-seabed-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Silent Seabed - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/high-scores-1?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "High Scores - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-dense-fog-today?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Dense Fog Today - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/the-world-of-drawcia-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "The World of Drawcia - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/stadium-kirby-melee?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stadium: Kirby Melee - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/foes-spring-up?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Foes Spring Up - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-flying-meteor?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Flying Meteor - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/skulls-swing-in?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Skulls Swing in - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/stage-4-kirbys-block-ball-gb?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 4 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/menu?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Menu (Game Mode Select) - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-3?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 3 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-station-fire?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Station Fire/Mysterious Flying Machine - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-5?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 5 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/vgmc/stage-example-kirbys-block?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Demo - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/scorecard?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Scorecard - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/kirby-quest-title-screen?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Kirby Quest - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/castles-of-cake?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Castles of Cake - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/skulls-swing-in?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Skulls Swing in - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/stage-2?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 1 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/dark-island?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dark Island - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/invincible-candy?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Invincible Candy - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/poppy?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Poppy - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-whats-in-the-box?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: What's in the Box? (No Fair! The Boxes All Contain the Same Item!) - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/silent-seabed-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Silent Seabed - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/knuckle-joe?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Knuckle Joe - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/duel-on-the-dream-course?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Duel on the Dream Course (2P Course Select) - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-beanstalk-park?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Beanstalk Park - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-item-bounce?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Item Bounce - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/the-world-of-drawcia-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "The World of Drawcia - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/elsrm3/kirby-air-ride-the-legendary?in=storyshift-asriel-dreemurr/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Legendary Air Ride Machine - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/kirbys-dream-course?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-nebula-belt?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Nebula Belt - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/cloudy-mountain-peaks?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Cloudy Mountain Peaks - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/showdown?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Showdown - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/iceberg-ocean?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Iceberg Ocean - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/jigsaw-plains?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Jigsaw Plains - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/lovely?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Lovely - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/spectacle-space-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Spectacle Space - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/dream-land?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dream Land (Course Select) - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/stadium-air-glider?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stadium: Air Glider/High Jump - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/waddle-dee?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Waddle Dee - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-7?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 7 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/rickotang/kirby-canvas-curse-music-track-02-training?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Training - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/ride-to-the-sky?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Ride to the Sky (Results Screen) - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/high-scores-1?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "High Scores - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/stadium-target-flight?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stadium: Target Flight - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/title?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-8?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 8 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/unrivaled-size-jumbo-candy?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Unrivaled Size - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-10?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 10 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/top-ride-sand?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Sand - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/top-ride-grass?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Grass - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/cyalm/kracko-kirby-canvas-curse?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Kracko - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/big-gold-star?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Big Gold Star - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/survival-lobby?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Survival Lobby - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/checking-extras?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Checking Extras - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-huge-pillar?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Huge Pillar - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-9?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 9 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/top-ride-metal?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Metal - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/green-fields?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Green Fields - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-2?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 2 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-sky-sands?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sky Sands - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/pinball-play?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Pinball Play - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-checker-knights?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Checker Knights - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/top-ride-fire?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Fire - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/crystalphantasm/drawcia-sorceress?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Drawcia Sorceress - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/daveytheduckgaming/drawcia-soul?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Drawcia Soul - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/the-tricky-stuff?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "The Tricky Stuff - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/boss-theme?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boss Battle - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/time-to-shine-vs-dark-matter-2?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Time to Shine - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/mad-mechanism-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Mad Mechanism - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/staff-roll?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Staff Roll/Credits - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/meta-knight?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Meta Knight - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/fearsome-foe?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Fearsome Foe - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/battle-extremes?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Battle Extremes - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/action-heaven-vs-max-flexer?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Action Heaven - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-magma-flows?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Magma Flows - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/green-grounds-map?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Green Grounds - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/kawasaki?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Kawasaki - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-dense-fog-today?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Dense Fog Today - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/frozen-fantasy-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Frozen Fantasy - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/vgmc/file-select-kirbys-block-ball?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "File Select - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/nickisjamminet/kirby-tilt-n-tumble-simple?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Simple Stage - Kirby Tilt 'n' Tumble",
+          },
+          {
+            url: "https://soundcloud.com/vgmc/title-kirbys-block-ball-1996?in=vgmc/sets/kirbys-block-ball-1996&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Theme - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/rhyley-byrd/kirby-canvas-curse-tiny-town?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Tiny Town - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/foes-spring-up?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Foes Spring Up - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/the-first-hole?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "The First Hole - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/learn-the-rules?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Learn the Rules (Tutorial) - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-dyna-blade-intro?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Dyna Blade - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-11?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 11 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/stadium-drag-race?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stadium: Drag Race - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/menu?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Menu - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/over-water?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Over Water - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/mushroomguy/kirby-canvas-curse-music-track?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Menus - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/fish-leggington/kirby-canvas-curse-music-paint-panic?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Paint Panic - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/ending-cinema-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Ending Cinema - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/star-card?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Star Card (File Select) - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/dedede?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dedede - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/stage-4-kirbys-block-ball-gb?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 4 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-machine-passage?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Machine Passage - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/city-trial-city?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/space-valley?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Space Valley - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-frozen-hillside?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Frozen Hillside - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-celestial-valley?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Celestial Valley - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-dedede?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dedede Battle - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/holadrim2487/kirbys-block-ball-stage-6?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage 6 - Kirby's Block Ball",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/well-played-all-medals?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Well Played - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/showdown-with-dedede?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Showdown with Dedede - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/game-over?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Game Over - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/rally-forth?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Rally Forth - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-tac-challenge?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Tac/Fake Items - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/opening-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/vgmmusic/air-ride-fantasy-meadows?in=vgmmusic/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Fantasy Meadows - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/mushroom-path-hopscotch-time?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Mushroom Path - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/opening?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening Cutscene - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-flying-meteor?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: Flying Meteor - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/city-trial-the-lighthouse?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "City Trial: The Lighthouse Light Burns - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/top-ride-water?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Water - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/out-of-the-holes-smash-em-up?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Out of the Holes - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/before-you-start?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Before You Start (Course Intro Cutscene) - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/top-ride-sky?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Sky - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/kirbymassattackost/survive-it-all-survival-rush?in=kirbymassattackost/sets/kirby-mass-attack-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Survive it All - Kirby Mass Attack",
+          },
+          {
+            url: "https://soundcloud.com/irony-is-a-weapon/stadium-kirby-melee?in=irony-is-a-weapon/sets/kirbys-air-ride-gamecube-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stadium: Kirby Melee - Kirby Air Ride",
+          },
+          {
+            url: "https://soundcloud.com/zander-likes-music/growth-grass-kirby-canvas-curse?in=zander-likes-music/sets/kirby-canvas-curse&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Growth Grasses - Kirby Canvas Curse",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/story?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Story - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/grill?in=milksi-250186279/sets/kirbys-star-stacker-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Grill - Kirby's Star Stacker",
+          },
+          {
+            url: "https://soundcloud.com/milksi-250186279/game-over-1?in=milksi-250186279/sets/kirbys-dream-course-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Game Over - Kirby's Dream Course",
+          },
+          {
+            url: "https://soundcloud.com/ran-dum/kirby-air-ride-light?in=storyshift-asriel-dreemurr/sets/kirby-air-ride&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Top Ride: Light - Kirby Air Ride",
+          },
         ],
         Pn
       ).subscribe,
